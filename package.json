@@ -1,0 +1,26 @@
+{
+  "name": "my-testproject",
+  "version": "1.0.0",
+  "description": "This is my first initializtion of a node.js project. lets see how it will go ))",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gen3ddd/NPM.git"
+  },
+  "keywords": [
+    "bla",
+    "bla"
+  ],
+  "author": "Evgeniy Buslovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gen3ddd/NPM/issues"
+  },
+  "homepage": "https://github.com/Gen3ddd/NPM#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
