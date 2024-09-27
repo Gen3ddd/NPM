@@ -7,6 +7,7 @@ const calculateBonus = (a, b) => {
     //переменной sum присвоили сумму значений a  и b  
     sum > 50 ? (bonus = 50) : (bonus = sum);
     debugger;
+    //поскольку условие выше выполнилось то в bonus присвоили значение 50
     return bonus;
     };
 
