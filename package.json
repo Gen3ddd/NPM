@@ -20,7 +20,10 @@
     "url": "https://github.com/Gen3ddd/NPM/issues"
   },
   "homepage": "https://github.com/Gen3ddd/NPM#readme",
-  "devDependencies": {
+  "dependencies": {
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "babel-plugin-istanbul": "^7.0.0"
   }
 }
