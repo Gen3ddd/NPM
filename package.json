@@ -4,7 +4,7 @@
   "description": "This is my first initializtion of a node.js project. lets see how it will go ))",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "url": "https://github.com/Gen3ddd/NPM/issues"
   },
   "homepage": "https://github.com/Gen3ddd/NPM#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
