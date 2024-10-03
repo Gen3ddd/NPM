@@ -11,3 +11,8 @@
   }
 }
 9) Write your first simple test and run in via terminal: npm run test
+
+---------------------Coverage--------------------------
+1) We are measuring branches coverage, function calls and coverage of  all lines
+2) Need to install plugin babel-plugin-istanbul from https://www.npmjs.com/
+3) Write tests and run them via terminal: npx jest --coverage
